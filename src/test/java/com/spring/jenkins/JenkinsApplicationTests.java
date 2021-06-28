@@ -20,6 +20,7 @@ class JenkinsApplicationTests {
 	void contextLoads() {
 		log.info("Testing application...");
 		log.info("Testing application seccond commit...");
+		log.info("Testing application third commit...");
 		assert(true);
 	}
 
