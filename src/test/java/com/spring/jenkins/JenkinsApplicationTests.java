@@ -21,6 +21,7 @@ class JenkinsApplicationTests {
 		log.info("Testing application...");
 		log.info("Testing application seccond commit...");
 		log.info("Testing application third commit...");
+		log.info("Testing application fourth commit...");
 		assert(true);
 	}
 
