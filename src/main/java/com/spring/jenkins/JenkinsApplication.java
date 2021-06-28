@@ -19,7 +19,7 @@ public class JenkinsApplication {
 	}
 
 	public static void main(String[] args) {
-		log.info("Starting applicacion...");
+		log.info("Starting applicacion...")
 		SpringApplication.run(JenkinsApplication.class, args);
 	}
 
