@@ -15,6 +15,7 @@ public class JenkinsApplication {
 	@PostConstruct
 	public void init(){
 		log.info("Application started...");
+		log.info("\n last commit compiling on windows \n");
 	}
 
 	public static void main(String[] args) {
